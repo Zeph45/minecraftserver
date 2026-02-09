@@ -1,0 +1,12 @@
+# Minecraft
+**/session.lock
+
+# Logs
+logs/
+*.log
+
+# Java junk
+hs_err_pid*
+
+# OS junk
+Thumbs.db
